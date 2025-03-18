@@ -1,5 +1,5 @@
 
-//Desafio SuperTrunfo Nivel Mestre
+//Desafio  logica do SuperTrunfo 
 
 #include <stdio.h>
 
@@ -80,6 +80,7 @@ printf("Densidade Populacional:  %.3f hab/km²\n", densidade_populacional2);
 printf("PIB per capita : R$%.2lf reais\n", pib_per_capita2);
 printf("Super Poder: %.3f\n", Super_Poder2);
 
+// Espaçamento e comparativo
 printf("\n     \n");
 
 printf("Comparação do atributo: Pontos Turisticos");
