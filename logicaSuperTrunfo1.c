@@ -1,5 +1,5 @@
 
-//Desafio  logica do SuperTrunfo 
+//Desafio lógica SuperTrunfo Nivel Novato
 
 #include <stdio.h>
 
